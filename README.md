@@ -2,7 +2,8 @@
 
 I’m a sunny Italian guy, nearly decade old battle-tested and language agnostic Full Stack Developer mainly focussed on Backend & DevOps side.
 
-I design and build APIs, databases, systems integrations for B2B/B2C solutions. I've mostly been a consultant in the past and over the years mainly my customers has been on: *retail, oil, sports, banking and events*. Today I'm focussing on *products* and *technological advancement*.
+I design and build APIs, databases, systems integrations for B2B/B2C solutions. I've mostly been a consultant in the past and over the years mainly my customers has been on: *retail, oil, sports, banking and events*. 
+Today I'm focussing on *products* and *technological advancement*.
 
 #### BIO TLDR;
 
@@ -15,3 +16,7 @@ I design and build APIs, databases, systems integrations for B2B/B2C solutions. 
 - 🏃 Running and Hiking whenever I can
 - 🌍 I'm bad at social networking but I'm trying to
 - 🌱 Passionate about all sciences
+
+#### MY AWESOME LIST;
+
+My [github action](https://github.com/simonecorsi/mawesome) is generating an awesome list of the thousands of projects I've starred over the years, [take a look](https://github.com/simonecorsi/awesome) if you want!

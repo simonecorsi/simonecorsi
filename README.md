@@ -17,6 +17,6 @@ Today I'm focussing on *products* and *technological advancement*.
 - 🌍 I'm bad at social networking but I'm trying to
 - 🌱 Passionate about all sciences
 
-#### MY AWESOME LIST;
+#### TECH
 
 My [github action](https://github.com/simonecorsi/mawesome) is generating an awesome list of the thousands of projects I've starred over the years, [take a look](https://github.com/simonecorsi/awesome) if you want!

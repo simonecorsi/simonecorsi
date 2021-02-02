@@ -2,8 +2,8 @@
 
 I’m a sunny Italian guy, nearly decade old battle-tested and language agnostic __Full-Stack Developer__ mainly focussed on __Backend__ & __DevOps__ side.
 
-I design and build APIs, databases, systems integrations for B2B/B2C solutions. I've mostly been a consultant in the past and over the years mainly my customers has been on: *retail, oil, sports, banking and events*. 
-Today I'm focussing on *products* and *technological advancement*.
+I design and build APIs, databases, systems integrations for B2B/B2C solutions. I've mostly been a consultant in the past but nowaday I'm part of *products* and *technological advancement* teams. Over the years mainly my customers has been on: *retail, oil, sports, banking and events*. 
+
 
 #### BIO TLDR;
 

@@ -9,14 +9,14 @@ Today I'm focussing on *products* and *technological advancement*.
 
 - 💼 Sr. Backend Developer
 - ❤️ In love with `Node.js` since 2011
-- ⚙️ Nowaday I mainly use: `.ts`, `.js`, `.go`, `.py`
-- 📚 Styding finance and economy on the side
-- 📸 Photographing in my spare time
-- 🎸 Playing guitar trying to make pop-punk comeback
+- ⚙️ I mainly use: `.ts`, `.js`, `.go`, `.py`
+- 📚 Finance enthusiast
+- 📸 Spare time photographer
+- 🎸 Disastrous guitarrist
 - 🏃 Running and Hiking whenever I can
-- 🌍 I'm bad at social networking but I'm trying to
 - 🌱 Passionate about all sciences
+- 🌍 I'm bad at social networking but I'm trying to
 
-#### TECH
+#### My tech feed
 
 My [github action](https://github.com/simonecorsi/mawesome) is generating an awesome list of the thousands of projects I've starred over the years, [take a look](https://github.com/simonecorsi/awesome) if you want!

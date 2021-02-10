@@ -7,7 +7,7 @@ I design and build APIs, databases, systems integrations for B2B/B2C solutions. 
 
 #### BIO TLDR;
 
-- 💼 Sr. Backend Developer
+- 💼 Sr. Backend Engineer | Node.js Specialist | DevOps
 - ❤️ In love with `Node.js` since 2011
 - ⚙️ I mainly use: `.ts`, `.js`, `.go`, `.py`
 - 📚 Finance enthusiast

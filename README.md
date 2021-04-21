@@ -25,25 +25,14 @@ I design and build APIs, databases, systems integrations for B2B/B2C solutions. 
 
 ---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" alt="PHP Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" alt="PHP Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="PHP Logo" width="50" height="50"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Logo" 
 width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="Redis Logo" width="50" height="50"/> <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt987f36e6cf17bc9a/5ea8c7fba7bdee51f48010f7/brand-elastic-vertical-220x130.svg" alt="RabbitMQ Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg" alt="Apache Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg" alt="Apache Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX Logo" width="50" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/digitalocean.svg" alt="DigitalOcean Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/digitalocean.svg" alt="DigitalOcean Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/>
 
 
 ---

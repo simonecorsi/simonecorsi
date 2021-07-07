@@ -1,9 +1,9 @@
 ### Hi there, I am Simone Corsi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m a sunny Italian guy, nearly decade old battle-tested and language agnostic __Full-Stack Developer__ mainly focussed on __Backend__ & __DevOps__. I've designed and built APIs, databases, systems architectures and integrations for B2B/B2C solutions.
+I’m a sunny Italian guy, nearly decade old battle-tested and language agnostic __Full-Stack Developer__ mainly focussed on __Backend__ & __DevOps__ but looking forward to being a **Solution Architect**. I and built APIs, databases, systems architectures and integrations for B2B/B2C solutions.
 
-I've mostly been a consultant in the past but today I'm broadening my knowledge by researching and developing within a *product* and *technological advancement* team!
-Previusly a consultat over the years my customers has been on: *retail, oil, sports, banking and events*. Nowaday my efforts are focused on research & development toward products' technological advancement!
+I'm broadening my knowledge by researching and developing within a *product* and *technological advancement* team!
+In the past I've mostly been a consultant and over the years my customers has been on: *retail, oil, sports, banking and events*.
 
 ---
 

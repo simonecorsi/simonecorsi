@@ -17,9 +17,10 @@ In the past I've mostly been a consultant and over the years I've built APIs, da
 - 📚 Avid reader
 - ⛓ Crypto enthusiast
 - 📸 Spare time photographer
-- 🎸 Disastrous guitarrist
-- 🏃 Running and Hiking whenever I can
-- 🌱 Science passionate
+- 🎸 Disastrous guitarist
+- 🏃 Runner & Hiker
+- 🛹 Skater wannabe
+- 🌱 Nature & Science passionate
 
 ---
 

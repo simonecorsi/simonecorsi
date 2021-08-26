@@ -20,7 +20,8 @@ In the past I've mostly been a consultant and over the years I've built APIs, da
 - 🎸 Disastrous guitarist
 - 🏃 Runner & Hiker
 - 🛹 Skater wannabe
-- 🌱 Nature & Science passionate
+- 🌱 Nature lover
+- 🪐 Science passionate
 
 ---
 

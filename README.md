@@ -4,7 +4,7 @@ I’m a sunny Italian guy, nearly decade old battle-tested and language agnostic
 
 I'm broadening my knowledge by researching and developing within a *product* and *technological advancement* team!
 
-In the past I've mostly been a consultant and over the years I've built APIs, databases, systems architectures and integrations for B2B/B2C solutions; for my customers on: *retail, oil, sports, banking and events*.
+In the past I've mostly been a consultant and over the years I've built APIs, databases, systems architectures and integrations for B2B/B2C solutions for my customers on: *retail, oil, sports, banking and events*.
 
 ---
 

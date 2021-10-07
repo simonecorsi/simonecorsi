@@ -12,8 +12,7 @@ In the past I've mostly been a consultant and over the years I've built APIs, da
 
 ---
 
-- 💼 Tech Lead
-- 💻 Fullstack Engineer | Node.js Specialist | DevOps
+- 💻 Node.js Tech Leader | Fullstack Engineer | DevOps
 - 📚 Avid reader
 - ⛓ Crypto enthusiast
 - 📸 Spare time photographer

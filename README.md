@@ -1,5 +1,9 @@
 ### Hi there, I am Simone Corsi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/im_simonecorsi)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/simonecorsi)
+
 I’m a sunny Italian guy, nearly decade old battle-tested and language agnostic __Full-Stack Developer__ mainly focussed on __Backend__ & __DevOps__ but looking forward to being a **Solution Architect**.
 
 I'm broadening my knowledge by researching and developing within a *product* and *technological advancement* team!

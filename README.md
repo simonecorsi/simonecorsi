@@ -17,8 +17,7 @@ Now that I'm done with all the buzzwords for the SEO! Let's just recap for human
 
 ---
 
-- 👨‍💻 Tech Leader
-- 💻 Senior Software Engineer | DevOps
+- 👨‍💻 Tech Leader | Senior Software Engineer | DevOps
 - ⭐️ Node.js Specialist
 - 📚 Avid reader
 - ⛓ Crypto enthusiast

@@ -3,9 +3,11 @@
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/im_simonecorsi)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/simonecorsi)
 
-I’m a sunny Italian guy, nearly decade-old "battle-tested" and language agnostic __Full-Stack Developer__ mainly focussed on __Backend__ & __DevOps__ but looking forward to being a **Solution Architect**.
+I’m a sunny Italian guy, nearly decade-old "battle-tested" and language agnostic __Senior Software Engineer__, mainly focussed on __Backend__ & __DevOps__ but looking forward to being a **Solution Architect**.
 
-I'm **Tech Leader** and a **Senior Software Engineer** in the *Developer Experience* and *Technological Advancement* team at **Immobiliare.it**, the #1 Real Estate company in Italy.
+- **Tech Leader** at **Immobiliare.it**, the #1 Real Estate company in Italy;
+- I'm also Part of the *Developer Experience* and *Technological Advancement* team;
+- Member of the internal open source initiative committee.
 
 In the past years I've mostly been a *consultant*, I've had the chance to take ownership and lead of backends and systems, designing and supervising implementations of: APIs architectures, Databases, systems topologies and integrations for B2B/B2C solutions; my customers has mostly been about: *retail, oil, sports, banking and events*.
 

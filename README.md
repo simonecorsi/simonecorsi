@@ -5,7 +5,7 @@
 
 I’m a sunny Italian guy, nearly decade-old "battle-tested" and language agnostic __Senior Software Engineer__, mainly focussed on __Backend__ & __DevOps__ but looking forward to being a **Solution Architect**.
 
-**Tech Leader** at **Immobiliare.it**, the #1 Real Estate company in Italy, part of the *Developer Experience* and *Technological Advancement* team, member of the internal open source initiative committee.
+Currently **Tech Leader** at **Immobiliare.it**, the #1 Real Estate company in Italy, part of its internal *Developer Experience* and *Technological Advancement* team, also member of the internal open source initiative committee.
 
 In the past years I've mostly been a *consultant*, I've had the chance to take ownership and lead of backends and systems, designing and supervising implementations of: APIs architectures, Databases, systems topologies and integrations for B2B/B2C solutions; my customers has mostly been about: *retail, oil, sports, banking and events*.
 

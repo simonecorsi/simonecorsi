@@ -17,16 +17,17 @@ Now that I'm done with all the buzzwords for the SEO! Let's just recap for human
 
 ---
 
-- 👨‍💻 Tech Leader | Senior Software Engineer | DevOps
-- ⭐️ Node.js Specialist
+- 👨‍💻 Solution Architect
+- 💻 Software Engineer
+- 🛠 Developer Experience 
 - 📚 Avid reader
 - ⛓ Crypto enthusiast
 - 📸 Spare time photographer
-- 🎸 Disastrous guitarist
-- 🏃 Runner & Hiker
-- 🛹 Skater wannabe
-- 🌱 Nature lover
+- 🎸 Terrible guitarist
+- 🏃 Sunday runner
+- 🛹 Geriatric Skateboarder
 - 🪐 Science passionate
+- 🌱 Nature lover
 
 ---
 
@@ -49,5 +50,6 @@ width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/de
 
 ---
 
-My [github action](https://github.com/simonecorsi/mawesome) is generating an awesome list of the thousands of projects I've starred over the years, [take a look](https://github.com/simonecorsi/awesome) if you want!
+You can find a long feed at [simonecorsi/awesome](https://github.com/simonecorsi/awesome) in an easy to read format of all the projects I've starred in nearly a decade on github! 
 
+Do you want your own feed? Try my [github action](https://github.com/simonecorsi/mawesome) to generate it!

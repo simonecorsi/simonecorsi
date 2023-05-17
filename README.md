@@ -1,30 +1,16 @@
-### Hi there, I am Simone Corsi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
+### Hi there, I am Simone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/im_simonecorsi)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/simonecorsi)
+![discord](https://img.shields.io/badge/discord-scdev%238374-brightgreen?style=for-the-badge&logo=discord&color=5865F2)
 
-I’m a sunny Italian guy, language agnostic "battle-tested" Full-Stack __Software Engineer__ and **Solution Architect**.
+Just a a sunny Italian guy! I have a deep passion for technologies, skateboarding, punk music, and photography. I consider myself a language-agnostic and battle-tested engineer, with a particular focus on the whole web stack, especially backends.
 
-Currently working as **Tech Leader** at **Immobiliare.it**, the #1 Real Estate company in Italy, I'm also part of the internal *Developer Experience* and *Technological Advancement* team and member of the internal open source initiative committee.
+- **Tech Leader:** at Immobiliare.it, Italy's #1 Real Estate Portal. Within the Developer Experience and Technological Advancement team, I contribute as a Senior Software Engineer and Solution Architect. I take pride in collaborating with my team to develop robust B2B/B2C solutions, including APIs, databases, and system integrations.
 
-With a background in consulting, I have the ability to take ownership and lead on frontend and backend and development, designing and supervising implementations of APIs, Databases, systems topologies and integrations for B2B/B2C solutions. My experience includes working in various industries such as retail, oil, sports, banking, and events.
+- **Open Source Advocate:** In addition to my responsibilities at Immobiliare.it, I am also one of the founding members of the internal open source committee. By actively fostering collaboration and knowledge sharing, I strive to create a culture of innovation and continuous improvement within the organization.
 
----
-
-🚀 BIO TLDR;
-
----
-
-> Now that I'm done with all the buzzwords for search engines, let's just recap for humans:
-
-- 👨‍💻 Tech Lead / Software Engineer / DX
-- 📚 Avid reader
-- ⛓ Crypto enthusiast
-- 🛹 Geriatric Skateboarder
-- 📸 Spare time photographer
-- 🎸 Terrible guitarist
-- 🏃 Sunday runner
-- 🪐 Science & Nature lover
+- **Consulting Background:** With a long experience in consulting, I bring a diverse range of knowledge and expertise to my work. Throughout my career, I have had the privilege of leading and contributing to the development of complete solutions for various businesses. This includes frontend and backend development, API design, database management, and system integrations. I have been fortunate to work across industries such as retail, oil, sports, banking, and events.
 
 ---
 
@@ -44,6 +30,6 @@ width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/de
 
 ---
 
-You can find a long feed at [simonecorsi/awesome](https://github.com/simonecorsi/awesome) in an easy to read format of all the projects I've starred in nearly a decade on github! 
+You can find a curated list of all the projects I've starred over nearly a decade on GitHub at [simonecorsi/awesome](https://github.com/simonecorsi/awesome). It's presented in an easy-to-read format, allowing you to explore my interests and the projects I find valuable.
 
-Do you want your own feed? Try my [github action](https://github.com/simonecorsi/mawesome) to generate it!
+Would you like to have your own personalized feed? Give my [Github Action](https://github.com/simonecorsi/mawesome) a try! It generates a feed based on your starred projects, providing a convenient way to showcase your preferences and engage with the community

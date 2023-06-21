@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/simonecorsi)
 ![discord](https://img.shields.io/badge/discord-scdev%238374-brightgreen?style=for-the-badge&logo=discord&color=5865F2)
 
-Just a a sunny Italian guy! I have a deep passion for technologies, skateboarding, punk music, and photography. I consider myself a language-agnostic and battle-tested engineer, with a particular focus on the whole web stack, especially backends.
+Just a sunny Italian guy with a deep passion for technology, skateboarding, punk music, and photography. I consider myself a language-agnostic and battle-tested engineer, with a particular focus on the whole web stack, especially backends.
 
 - **Tech Leader:** at Immobiliare.it, Italy's #1 Real Estate Portal. Within the Developer Experience and Technological Advancement team, I contribute as a Senior Software Engineer and Solution Architect. I take pride in collaborating with my team to develop robust B2B/B2C solutions, including APIs, databases, and system integrations.
 
@@ -30,6 +30,6 @@ width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/de
 
 ---
 
-You can find a curated list of all the projects I've starred over nearly a decade on GitHub at [simonecorsi/awesome](https://github.com/simonecorsi/awesome). It's presented in an easy-to-read format, allowing you to explore my interests and the projects I find valuable.
+You can find a curated list of all the projects I've starred over the last decade on GitHub at [simonecorsi/awesome](https://github.com/simonecorsi/awesome). It's presented in an easy-to-read format, allowing you to explore my interests and the projects I find valuable.
 
 Would you like to have your own personalized feed? Give my [Github Action](https://github.com/simonecorsi/mawesome) a try! It generates a feed based on your starred projects, providing a convenient way to showcase your preferences and engage with the community

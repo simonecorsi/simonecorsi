@@ -4,13 +4,13 @@
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/simonecorsi)
 ![discord](https://img.shields.io/badge/discord-scdev%238374-brightgreen?style=for-the-badge&logo=discord&color=5865F2)
 
-Just a sunny Italian guy with a deep passion for technology, skateboarding, punk music, and photography. I consider myself a language-agnostic and battle-tested engineer, with a particular focus on the whole web stack, especially backends.
+I'm a technical leader focused on building effective solutions, guiding small stream-aligned teams, and designing robust software platforms. 
 
-- **Tech Leader:** at Immobiliare.it, Italy's #1 Real Estate Portal. Within the Developer Experience and Technological Advancement team, I contribute as a Senior Software Engineer and Solution Architect. I take pride in collaborating with my team to develop robust B2B/B2C solutions, including APIs, databases, and system integrations.
+My background covers platform engineering, solution architecture, technical product management, and UI/UX design. Over the years I've worked across the full stack and in diverse industries through earlier consulting work, which gave me the experience to design solutions that are both technically solid and business-driven.
 
-- **Open Source Advocate:** In addition to my responsibilities at Immobiliare.it, I am also one of the founding members of the internal open source committee. By actively fostering collaboration and knowledge sharing, I strive to create a culture of innovation and continuous improvement within the organization.
+I've led projects in architecture, performance optimization, and cloud infrastructure (AWS, Kubernetes), while also shaping product roadmaps and internal platforms. What I enjoy most is taking a wide view designing solutions end-to-end, balancing technical soundness, usability, and impact. My strengths lie in strategic thinking, technical leadership, and building systems that scale while creating real value for the business.
 
-- **Consulting Background:** With a long experience in consulting, I bring a diverse range of knowledge and expertise to my work. Throughout my career, I have had the privilege of leading and contributing to the development of complete solutions for various businesses. This includes frontend and backend development, API design, database management, and system integrations. I have been fortunate to work across industries such as retail, oil, sports, banking, and events.
+Outside of work, I founded and manage an event-planning initiative in Rome's music scene, coordinating a team that handles operations, marketing, and logistics, an experience that has added to my skills in leadership, delegation, and coordination.
 
 ---
 

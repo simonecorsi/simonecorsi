@@ -2,7 +2,7 @@
 
 I’m a **Senior Software Engineer and Technical Lead** focused on creating **products and platforms that scale and address real business and technical challenges**. I design and build **internal platforms, distributed backend systems, and developer tooling**, while shaping architectural direction and internal platform roadmaps, bridging **technical leadership and product thinking**.
 
-I’ve always been fascinated by the intersection of **software and systems architecture, product thinking, and developer workflows**. Good platform engineering and DevEx reduce cognitive load for development teams, letting engineers focus on domain problems instead of infrastructure and improving productivity and delivery speed.
+I’ve always been fascinated by the intersection of **software and systems architecture, product thinking, and developer workflows**, since I believe that well-designed platforms and developer experience reduce cognitive load, letting engineers focus on domain problems.
 
 ## ⚡ What I Work On
 

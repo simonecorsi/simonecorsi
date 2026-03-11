@@ -1,6 +1,6 @@
 ## Hi there, I’m Simone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 
-I’m a **Senior Software Engineer and Technical Lead** building **products and platforms that scale and solve real business and technical challenges**. I design and deliver **internal platforms, distributed backend systems, and developer tooling**, shaping architecture and internal platform roadmaps while bridging **technical leadership and product thinking**. My work improves **engineering productivity, delivery speed, and the impact of the products I help build**.
+I’m a **Senior Software Engineer and Technical Lead** building **products and platforms** that scale and solve real business and technical challenges. I design and deliver **internal platforms, distributed backend systems, and developer tooling**, shaping architecture and internal platform roadmaps while bridging technical leadership and product thinking. I work to improve **engineering productivity, delivery speed, and the impact** of the products I help build.
 
 ## ⚡ What I Work On
 
